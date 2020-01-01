@@ -1,8 +1,9 @@
 # Important Web Links for Developers
 
+[![Tweet for help](http://shriramsoft.com/wp-content/uploads/2018/04/logo.png)](https://twitter.com/shriramsoft/)
+
 > If you like this content, you can ping me or follow me on Twitter :+1:
 
-[![Tweet for help](http://shriramsoft.com/wp-content/uploads/2018/04/logo.png)](https://twitter.com/shriramsoft/)
 
 
 ### My web development setup
