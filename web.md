@@ -25,5 +25,7 @@ https://github.com/mbeaudru/modern-js-cheatsheet#sample-code-2
 - https://www.freecodecamp.org/
 - https://www.toptal.com/
 - https://medium.com/
+- https://scotch.io/
+- https://davidwalsh.name/
 
 
