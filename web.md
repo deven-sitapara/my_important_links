@@ -17,4 +17,13 @@ https://www.youtube.com/watch?v=SwYsRAYiJvs&feature=em-uploademail
 https://github.com/mbeaudru/modern-js-cheatsheet#sample-code-2
 
 
+### Developer Community Blog, Tutorials, Articles 
+- https://hashnode.com/
+- https://dzone.com/
+- https://dev.to/
+- https://hackernoon.com/
+- https://www.freecodecamp.org/
+- https://www.toptal.com/
+- https://medium.com/
+
 
