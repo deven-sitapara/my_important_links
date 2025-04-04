@@ -1,6 +1,6 @@
 # Important Web Links for Developers
 
-[![Tweet for help]([http://shriramsoft.com/wp-content/uploads/2018/04/logo.png](https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F223875%2F5ccec9b6-2b0f-4ece-bbc4-74d1764244f1.png))](https://twitter.com/deven_sitapara/)
+[![Tweet for help]([https://pbs.twimg.com/profile_images/1908055457719037952/VOiS1NkN_400x400.jpg))](https://twitter.com/deven_sitapara/)
 
 > If you like this content, you can ping me or follow me on Twitter :+1:
 
