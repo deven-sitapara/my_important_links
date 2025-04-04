@@ -1,6 +1,6 @@
 # Important Web Links for Developers
 
-[![Twitter: deven_sitapara](https://pbs.twimg.com/profile_images/1908055457719037952/VOiS1NkN_100x100.jpg "deven_sitapara")](https://twitter.com/deven_sitapara)
+[![Twitter: deven_sitapara](https://pbs.twimg.com/profile_images/1908055457719037952/VOiS1NkN_200x200.jpg "deven_sitapara")](https://twitter.com/deven_sitapara)
 
 
 > If you like this content, you can ping me or follow me on Twitter :+1:
