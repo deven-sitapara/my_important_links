@@ -2,7 +2,9 @@
 
 [https://pbs.twimg.com/profile_images/1908055457719037952/VOiS1NkN_400x400.jpg](https://twitter.com/deven_sitapara/)
 
-[![My Image]([path/to/image.png](https://pbs.twimg.com/profile_images/1908055457719037952/VOiS1NkN_400x400.jpg))]([https://example.com](https://twitter.com/deven_sitapara))
+[[![My Image]([path/to/image.png](https://pbs.twimg.com/profile_images/1908055457719037952/VOiS1NkN_400x400.jpg))]([https://example.com](https://twitter.com/deven_sitapara))
+](https://pbs.twimg.com/profile_images/1908055457719037952/VOiS1NkN_400x400.jpg)
+
 
 > If you like this content, you can ping me or follow me on Twitter :+1:
 
